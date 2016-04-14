@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Resourse">
+        <file alias="mail">resources/mail.png</file>
+        <file alias="Ok">resources/Ok.png</file>
+        <file alias="Set">resources/Set.png</file>
+        <file alias="television">resources/television.png</file>
+        <file alias="users">resources/Users.png</file>
+        <file alias="wifi">resources/Wifi.png</file>
+        <file alias="vip">resources/Vip.png</file>
+    </qresource>
+</RCC>
